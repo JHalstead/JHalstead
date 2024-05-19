@@ -4,8 +4,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b><br/>
-<!--  - [Windows EventLog](https://github.com/jhalstead/WindowsEventLog) <br/>
-  - [Tutorial: Windows Eventlog](https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA) -->
+  - [Unique Pages](https://github.com/JHalstead/UniquePage) <br/>
+  <!-- - [Tutorial: Windows Eventlog](https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA) -->
 - <b>C# (.NET Desktop Applications)</b><br/>
 - <b>Rust</b><br/>
 <h2>🔭 Cybersecurity Projects:</h2>
