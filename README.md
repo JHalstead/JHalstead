@@ -1,17 +1,15 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/JHalstead">Programmer</a> and <a href="https://www.linkedin.com/in/justin-halstead-9a1444215/">Cybersecurity</a> Professional.</h1>
-<!-- , <a href="https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA">YouTuber</a> -->
+<h2>Hi there 👋, My name is Justin! <br/><a href="https://github.com/JHalstead">Programmer</a> and <a href="https://www.linkedin.com/in/justin-halstead-9a1444215/">Cybersecurity</a> Professional.
+<!-- , <a href="https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA">YouTuber</a> --></h2>
 
-Software developer working to implement Information Technology solutions. 
+- <b>I am a Software Developer working to implement Cybersecurity and Information Technology solutions.</b><br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b><br/>
   - [Unique Pages](https://github.com/JHalstead/UniquePage) <br/>
-  <!-- - [Tutorial: Windows Eventlog](https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA) -->
-- <b>C# (.NET Desktop Applications)</b><br/>
-- <b>Rust</b><br/>
+  <!-- - [Tutorial: Windows Eventlog](https://www.youtube.com/channel/UCep_-5jswA7cPeYDspGGwqA) - <b>C# (.NET Desktop Applications)</b><br/> - <b>Rust</b><br/> -->
 
-<h2>🔭 Cybersecurity Projects:</h2>
+<!-- <h2>🔭 Cybersecurity Projects:</h2> -->
 
 <h2>📄 Certifications:</h2>
 
@@ -25,7 +23,7 @@ Software developer working to implement Information Technology solutions.
 <img src="https://img.shields.io/badge/-CSIE-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-<h2>📺 YouTube Videos:</h2>
+<!-- <h2>📺 YouTube Videos:</h2> -->
 
 <h2> 🤳 Connect with me:</h2>
 
